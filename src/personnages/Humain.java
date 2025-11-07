@@ -49,7 +49,7 @@ public class Humain {
 					+ "sous.");
 		} else {
 			perdreArgent(prix);
-			parler("J'ai" + argent + "sous en poche. Je vais pouvoir m'offrir un(e)" + bien + " à " + prix);
+			parler("J'ai " + argent + "sous en poche. Je vais pouvoir m'offrir un(e)" + bien + " à " + prix);
 		}
 	}
 
