@@ -46,6 +46,7 @@ public class Yakuza extends Humain {
 	public void direBonjour() {
 		super.direBonjour();
 		parler("Mon clan est celui de " + this.clan);
+		
 	}
 	
 }
